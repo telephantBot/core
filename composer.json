@@ -1,0 +1,17 @@
+{
+    "name": "telephantbot/core",
+    "autoload": {
+        "psr-4": {
+            "Telephantbot\\Core\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
